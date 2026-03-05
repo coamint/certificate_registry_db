@@ -1,0 +1,14 @@
+{
+  "asset_id": "749fe40d6ca4f27295d6f9b2f9a7f86231a9e76d81ca625a385fcd2a7146975f",
+  "asset_type": "collectible",
+  "cert_id": "COA-1772674416939-I0XVVN",
+  "domain": "adaptivefleet.com",
+  "label": "COLLEC",
+  "name": "Rolex Watch",
+  "serial": "98908823423",
+  "issuance_txid": "0c4affbdcc1369b99dbec2ee1f003ac25ee38e59df143ff2dc0f43df8430fa30",
+  "transfer_txid": "67204efd1c95db0e7e12d88a18c43a1ee5450bb2304d2a40f9541eb59bc03f8d",
+  "contract_hash": "7e4046519e92d809f718ea5c70b230d584050dcb21bdef5309cd5bac308eaa4c",
+  "issuer_name": "Rolex",
+  "icon_url": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI3NSIgaGVpZ2h0PSI3NSIgdmlld0JveD0iMCAwIDc1IDc1IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8cmVjdCB3aWR0aD0iNzUiIGhlaWdodD0iNzUiIHJ4PSI4IiBmaWxsPSIjMWUyOTNiIi8+CiAgICAgIDxwYXRoIGQ9Ik0zNy41IDEydjNtMCA0NXYzbTI0LTMwaC0zTTE1LjUgMzNoLTNtNDEuODY0IDE2LjM2NGwtMS40MTQtMS40MTRNMjAuMDUgMjEuMDVsLTEuNDE0LTEuNDE0bTQyLjcyOCAwbC0xLjQxNCAxLjQxNE0yMC4wNSA1NC45NWwtMS40MTQgMS40MTRNNDcuNSAzM2ExMCAxMCAwIDExLTIwIDAgMTAgMTAgMCAwMTIwIDB6IiBzdHJva2U9IiMwNmI2ZDQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICAgIDxjaXJjbGUgY3g9IjM3LjUiIGN5PSIzMyIgcj0iOCIgZmlsbD0iIzA2YjZkNCIgZmlsbC1vcGFjaXR5PSIwLjIiLz4KICAgIDwvc3ZnPgogIA=="
+}
