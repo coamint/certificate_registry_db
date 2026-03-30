@@ -1,0 +1,25 @@
+{
+  "asset_id": "82606440bd3f9ca17db35f699039a9cb9ba784acaf4166f69d5eaa3287f0866a",
+  "cert_id": "COA-1774900346854-2MBGEE",
+  "asset_type": "art",
+  "name": "Cell Phone",
+  "serial": "3243244",
+  "label": "FINEAR",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "Adaptive Fleet"
+  },
+  "issuance": {
+    "txid": "a484268e47e597a03e43abe66e7accb8aa986698e96dd47eae7fb166cf42c06c",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "1b40bb8b620e531500555e024a290c173e1fdff48f0029fb94c76fb5bbdbfb8a",
+  "transfer_txid": "736c5806f2f9eed68cc3f8b35d925cba17dcdfed088ac2a64702d3dd4e6e5139"
+}
