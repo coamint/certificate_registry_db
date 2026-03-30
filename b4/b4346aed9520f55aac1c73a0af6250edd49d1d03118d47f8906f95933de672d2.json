@@ -1,0 +1,25 @@
+{
+  "asset_id": "b4346aed9520f55aac1c73a0af6250edd49d1d03118d47f8906f95933de672d2",
+  "cert_id": "COA-1774902039984-0OQEG6",
+  "asset_type": "art",
+  "name": "This is a test of the minting processs",
+  "serial": "234234234",
+  "label": "FINEAR",
+  "entity": {
+    "domain": "adativefleet.com",
+    "issuer_name": "AdaptiveFleet.com"
+  },
+  "issuance": {
+    "txid": "070793b586f97e40a9932e32d42b8b75e0d245b9c7ed49ed2f23f80412b0538b",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "f5b29d9b1f3f477f187b3f8641e32ce132fb40581b98543e556aee5cc98fe08d",
+  "transfer_txid": "181fc4970608fb92ba2cc138fb1c99100736aa1f5308096a4ee9119590f84bd6"
+}
