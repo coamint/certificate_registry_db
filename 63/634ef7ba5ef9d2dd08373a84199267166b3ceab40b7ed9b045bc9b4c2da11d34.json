@@ -1,0 +1,25 @@
+{
+  "asset_id": "634ef7ba5ef9d2dd08373a84199267166b3ceab40b7ed9b045bc9b4c2da11d34",
+  "cert_id": "COA-1774903186416-CXZEMH",
+  "asset_type": "art",
+  "name": "This is a test on Monday",
+  "serial": "32233244",
+  "label": "FINEAR",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "adaptivefleet"
+  },
+  "issuance": {
+    "txid": "5b73d97eb59b9076dfbcebd5a97861efd3f2c2e97b48440c6455e84536e74ad6",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "e7bf82bed2d3a468d7cb7fe1b6cc787543838fefb28883aaaa645217a9d36123",
+  "transfer_txid": "a5eec700863b913ec81934c98e63746146459243e05724e923c2ecd195b73bb6"
+}
