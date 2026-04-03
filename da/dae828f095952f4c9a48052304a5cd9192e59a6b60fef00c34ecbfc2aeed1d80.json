@@ -1,0 +1,25 @@
+{
+  "asset_id": "dae828f095952f4c9a48052304a5cd9192e59a6b60fef00c34ecbfc2aeed1d80",
+  "cert_id": "COA-1775253868239-QVNL9J",
+  "asset_type": "art",
+  "name": "Picture of the Mountain",
+  "serial": "447474-009",
+  "label": "FINEART",
+  "entity": {
+    "domain": "arizonagalleryplus.com",
+    "issuer_name": "Arizona Gallery"
+  },
+  "issuance": {
+    "txid": "06a489a9a2e1ea1577191fbe35b526b0adb50362ac129860cb8891c15d581375",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "dfb2979c41a78a8d7a58805c7bebef14e64c0a2193cfc0b95dcfea997d121518",
+  "transfer_txid": "89a7574f578f0fdad09e8ae4373f64baa51e366dc1b1cd5077a87d08ad1fc27d"
+}
