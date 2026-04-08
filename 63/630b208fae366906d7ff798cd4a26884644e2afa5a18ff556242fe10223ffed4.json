@@ -1,0 +1,25 @@
+{
+  "asset_id": "630b208fae366906d7ff798cd4a26884644e2afa5a18ff556242fe10223ffed4",
+  "cert_id": "COA-1775625451574-LY235M",
+  "asset_type": "art",
+  "name": "Gal on the chair",
+  "serial": "47474747",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "David Test for M"
+  },
+  "issuance": {
+    "txid": "80610a55279b4409e435b3af3d56d17976a44e0592f0a128c38e6a8d318cb240",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "13c2212611e590f3d59c3115eb0912e573dc1f79e3b8c5c528587b081097e92c",
+  "transfer_txid": "c44d04444ed195221a4284550d1a26648e3731bb907037b7d6a48be6dbdaabba"
+}
