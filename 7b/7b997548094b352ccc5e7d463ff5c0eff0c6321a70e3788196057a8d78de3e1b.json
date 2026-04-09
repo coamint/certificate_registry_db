@@ -1,0 +1,25 @@
+{
+  "asset_id": "7b997548094b352ccc5e7d463ff5c0eff0c6321a70e3788196057a8d78de3e1b",
+  "cert_id": "COA-1775752486671-WOQKPZ",
+  "asset_type": "art",
+  "name": "Painting of a Beach",
+  "serial": "32423432433244",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "Aaron Werner"
+  },
+  "issuance": {
+    "txid": "1e83f12116273301143d0ac4c1057f7d27ad77128779d8d12a0001e9ddbfa366",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "a7dd407b59781af19a6060fc709954a2e68622254d3cee9bd9d5b003b038f851",
+  "transfer_txid": "68ea3de025edb88f0233dfd8289add7038915d0e5d4705ad2ae1af9e044ea36a"
+}
