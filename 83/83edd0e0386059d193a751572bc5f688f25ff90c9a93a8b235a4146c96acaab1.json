@@ -1,0 +1,25 @@
+{
+  "asset_id": "83edd0e0386059d193a751572bc5f688f25ff90c9a93a8b235a4146c96acaab1",
+  "cert_id": "COA-1775857863641-M0MQCE",
+  "asset_type": "art",
+  "name": "Flower Pad",
+  "serial": "123455-12",
+  "label": "FINEART",
+  "entity": {
+    "domain": "disruptiveforce.io",
+    "issuer_name": "Minnaar DF Test"
+  },
+  "issuance": {
+    "txid": "380c351f1d1cfa36cd323cab11a656fd557a5fd097acd834ab26e4302f0afc32",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "ad320ca574e38747b10f17f81373f219c225869285640ee59871072931b0d020",
+  "transfer_txid": "7757d63d0ed3c662c352d36beaccaeb37a2f5558c31a5e97301567e59885268e"
+}
