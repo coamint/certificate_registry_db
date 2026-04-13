@@ -1,0 +1,25 @@
+{
+  "asset_id": "87d1ede46b29216de1228e6f0d43c4ff02c73a681352a4878643161bcda1fca3",
+  "cert_id": "COA-1776046056276-X2KFMI",
+  "asset_type": "art",
+  "name": "test mint",
+  "serial": "233333-3333",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "INTM"
+  },
+  "issuance": {
+    "txid": "aa2ae0e11af16f501ee6bb30b24a5a0e868ed25283699f457698c472b190731d",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "0e487c59a5214071d74a6e3c9543f6733c2e99304c7a5ed755a3477bda5555c6",
+  "transfer_txid": "95e3b08223fd216e7f15721cdbbde36ba013cc3209ad5b70964db722a72a6ca6"
+}
