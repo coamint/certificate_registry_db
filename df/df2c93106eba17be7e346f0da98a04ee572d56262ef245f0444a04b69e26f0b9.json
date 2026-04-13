@@ -1,0 +1,25 @@
+{
+  "asset_id": "df2c93106eba17be7e346f0da98a04ee572d56262ef245f0444a04b69e26f0b9",
+  "cert_id": "COA-1776121832962-UUMK9M",
+  "asset_type": "art",
+  "name": "David W",
+  "serial": "12345-434434",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "jfajlfdskjlkfdjas"
+  },
+  "issuance": {
+    "txid": "40af5dd126a47827edeca5727ea1afac3e11fac388be2922d0592a7586f03d55",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "40a87f75db6442feff57834b6f8555c517301e128719daae655e26fa8d28492c",
+  "transfer_txid": "e434399000635b080ad78170de4f8186eb6e17a72248ffef68c68fb81a741769"
+}
