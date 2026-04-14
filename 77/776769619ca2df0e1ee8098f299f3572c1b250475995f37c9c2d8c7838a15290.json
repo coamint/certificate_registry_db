@@ -1,0 +1,25 @@
+{
+  "asset_id": "776769619ca2df0e1ee8098f299f3572c1b250475995f37c9c2d8c7838a15290",
+  "cert_id": "COA-1776127851141-56E7JV",
+  "asset_type": "art",
+  "name": "David Test 10",
+  "serial": "jasfd899898",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "Test again"
+  },
+  "issuance": {
+    "txid": "04473439e0a7df2715df2d9dadd1a85a6d2ed6257616a82d7c0c1d3cee559ccc",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "7f42c4f1f4809cda3faaeaeb82582036d6ec08ba77cb2172ed3e753856c48406",
+  "transfer_txid": "059c61aec0e0fed64de80a0dbae0e8a3cb801e365087ca0222c2f43a275075cd"
+}
