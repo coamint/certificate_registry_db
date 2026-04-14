@@ -1,0 +1,25 @@
+{
+  "asset_id": "eed1927f4db1ec38bde1cd310fd3359fd6246a8a1c93cee570118d7b8f923752",
+  "cert_id": "COA-1776126201262-5GOHHX",
+  "asset_type": "art",
+  "name": "David Test 8",
+  "serial": "3874827349743",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "testingagain"
+  },
+  "issuance": {
+    "txid": "c8b3060cf3c90141a56a746a6f9b53c8510640e29daab4e307310636be4c58ff",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "f8fb125a365cf30d078da2a088a7f6f0e6da9be86417b7d82e20492b64aafca1",
+  "transfer_txid": "2080afb8ca73113c5bf9f3f30b0d7000d22f53fbe001f3133c5a31b2ef47d22b"
+}
