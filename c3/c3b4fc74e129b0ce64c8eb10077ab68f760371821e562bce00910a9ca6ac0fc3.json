@@ -1,0 +1,25 @@
+{
+  "asset_id": "c3b4fc74e129b0ce64c8eb10077ab68f760371821e562bce00910a9ca6ac0fc3",
+  "cert_id": "COA-1776235202419-2X3TH7",
+  "asset_type": "art",
+  "name": "Spring is Here - Digital Art",
+  "serial": "1004",
+  "label": "FINEART",
+  "entity": {
+    "domain": "disruptiveforce.io",
+    "issuer_name": "Disruptive Force, LLC. "
+  },
+  "issuance": {
+    "txid": "dcd5634b7440849f7180f7f7e9bec689f47dcf849e06cdd8a1faec1429a6d6b5",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "a74d26a0ecbb6caf2151fa44cf6ca7a4a128fba5a523d602634f7d24256b18dc",
+  "transfer_txid": "075f0d920e21a36667365171d043bb188ffa54b02197b673877eca9839fe0c72"
+}
