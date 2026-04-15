@@ -1,0 +1,25 @@
+{
+  "asset_id": "7dcfa02019855117f494e4eb0216914c073e23396bfa13901fd9156678716e7a",
+  "cert_id": "COA-1776234202521-3CBGAQ",
+  "asset_type": "art",
+  "name": "Fall Begins Digital Art",
+  "serial": "1001",
+  "label": "FINEART",
+  "entity": {
+    "domain": "disruptiveforce.io",
+    "issuer_name": "Disruptive Force, Inc."
+  },
+  "issuance": {
+    "txid": "4782ecb8b75eb0113450d06f13b1e8c3ce83690442a5fb127423e0cd3a31a405",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "d1dd80b4f91d2e7a77b3fa765ee2bdf38b522027132f6202a72727c7edbd1ac8",
+  "transfer_txid": "f1e2dbae514eea37a5930d0b3485ecec0807117c43d0d5922ab7af657d31a194"
+}
