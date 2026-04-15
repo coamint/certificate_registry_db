@@ -1,0 +1,25 @@
+{
+  "asset_id": "be5b67099a71daf677d02d684d8cf09e5bc4b588607cf3a0b26ce4b6c1141120",
+  "cert_id": "COA-1776234927407-LBX7VI",
+  "asset_type": "art",
+  "name": "Summer Games - Digital Art",
+  "serial": "1003",
+  "label": "FINEART",
+  "entity": {
+    "domain": "disruptiveforce.io",
+    "issuer_name": "Disruptive Force, LLC."
+  },
+  "issuance": {
+    "txid": "27edccecda975103dd503bfb46c8f42d15cf9a56770907b9aed6e4dc9066978c",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "268a0ca1dd0883191fc07045c2864ebe4b2a43f9df3a9ffc3b84974f118f450a",
+  "transfer_txid": "f83b41cf6fd3b85a2e1f0a614fdfa9182dfda303c0ac3f7c4d39b78e92ea96ca"
+}
