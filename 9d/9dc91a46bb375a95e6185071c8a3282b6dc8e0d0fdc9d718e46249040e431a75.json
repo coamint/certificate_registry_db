@@ -1,0 +1,25 @@
+{
+  "asset_id": "9dc91a46bb375a95e6185071c8a3282b6dc8e0d0fdc9d718e46249040e431a75",
+  "cert_id": "COA-1776234531165-UILSA8",
+  "asset_type": "art",
+  "name": "Winter Fun - Digital Art",
+  "serial": "1002",
+  "label": "FINEART",
+  "entity": {
+    "domain": "disruptiveforce.io",
+    "issuer_name": "Disruptive Force, LLC. "
+  },
+  "issuance": {
+    "txid": "18c4ffc34c6ff21cbbba6c8869f6f691aabfa2e43bfd77561ff6d3be205ea390",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "f0f82eb6656812dfc1205e6cc0b81e059f77786062c7c68588265d851562c566",
+  "transfer_txid": "dfb1d4931d0a71e11a281306bce3c56d63299749cf0204152451b8a673a9883f"
+}
