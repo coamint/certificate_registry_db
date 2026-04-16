@@ -1,0 +1,25 @@
+{
+  "asset_id": "6cbacc5da88ff7b8e25e6538ea3ded5a26d6fb398351dd7959b27001f47a4ab4",
+  "cert_id": "COA-1776320929381-8HNBP2",
+  "asset_type": "art",
+  "name": "Lady Minnaar",
+  "serial": "03046",
+  "label": "FINEART",
+  "entity": {
+    "domain": "minnaartreasury.com",
+    "issuer_name": "Steven Minnaar"
+  },
+  "issuance": {
+    "txid": "859c6b5d8e5ae866be6c5d7897c04abf2904d5cef4e0fc6ea4dbd82c2ac837ed",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "7c0d6cfd455a88e64925e7089fe1afd8c0f3093bde3e99af1b1934944eec8bc7",
+  "transfer_txid": "279cc8c4d01365b69eebcb92c6834c449ffc5c77e096252b5fee79bfb69b6d52"
+}
