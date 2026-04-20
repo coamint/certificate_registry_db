@@ -1,0 +1,25 @@
+{
+  "asset_id": "627a6738bdc52d645c0813a6b81c77d65c6434db7e8c483abb29dfd743cf5742",
+  "cert_id": "COA-1776718638045-GOL0TA",
+  "asset_type": "art",
+  "name": "Intellimint Wins Digital Art - Oil",
+  "serial": "1005",
+  "label": "FINEART",
+  "entity": {
+    "domain": "disruptiveforce.io",
+    "issuer_name": "Disruptive Force, LLC."
+  },
+  "issuance": {
+    "txid": "6a760dc4d90215c859bf08e363f52a91840cd4573fddbb1665a9326d24a6c50c",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "fdf22733f797b63c5cadf96c04986e4647f05893c8921cc3d21fc920a2b4d050",
+  "transfer_txid": "cbb62b00c193e5e78087baeda224afe53e97ac8ebae0caa404c61c09a2877b4a"
+}
