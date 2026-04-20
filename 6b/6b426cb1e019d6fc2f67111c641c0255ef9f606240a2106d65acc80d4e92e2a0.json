@@ -1,0 +1,25 @@
+{
+  "asset_id": "6b426cb1e019d6fc2f67111c641c0255ef9f606240a2106d65acc80d4e92e2a0",
+  "cert_id": "COA-1776716959823-XJOG3Q",
+  "asset_type": "art",
+  "name": "This is a test of the minting process using a default wallet",
+  "serial": "32423423423",
+  "label": "FINEART",
+  "entity": {
+    "domain": "younghammer.com",
+    "issuer_name": "YOung Hammer"
+  },
+  "issuance": {
+    "txid": "54696adb20f484d0ac5d0e8e2c686ea9d268ec1df9a0b491316955e33646f74f",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "7937eea407ec7f682cc9bf54c721aeb4fcafd528592b7219a31047dd2a6b336e",
+  "transfer_txid": "1fe4471325d12af65b7e6998c3987a0ca9d4270c8c3468a3a72121f5540aa5b7"
+}
