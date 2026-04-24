@@ -1,0 +1,25 @@
+{
+  "asset_id": "d96b96c8ba5be72d288fbe83895e2d1a580617d64bbdabcc39879dd569cbbd2b",
+  "cert_id": "COA-1776991458524-UHECTO",
+  "asset_type": "art",
+  "name": "The Sovereign Declaration",
+  "serial": "03099",
+  "label": "FINEART",
+  "entity": {
+    "domain": "minnaartreasury.com",
+    "issuer_name": "The Minnaar Treasury"
+  },
+  "issuance": {
+    "txid": "5aa7c0368c9c1b0ca1e214c207b412683f346ffbdae36d2ed7ffc675b18c2fa9",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "f64fd6f3e07597904ef7394345a4f1e2f9d1523c5e29243a47dfe45bc23bd99a",
+  "transfer_txid": "1927aedd35c54948c46337ff42b5fc1e23f53647eaa2fcf6c62ba1c6ffc61b61"
+}
