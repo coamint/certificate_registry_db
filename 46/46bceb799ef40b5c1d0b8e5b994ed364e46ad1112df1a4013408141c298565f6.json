@@ -1,0 +1,25 @@
+{
+  "asset_id": "46bceb799ef40b5c1d0b8e5b994ed364e46ad1112df1a4013408141c298565f6",
+  "cert_id": "COA-1777007725391-X0NGPE",
+  "asset_type": "collectible",
+  "name": "jafljfdkajfjasf",
+  "serial": "10001010",
+  "label": "COLLECTIBLE",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "Intellimint, Inc."
+  },
+  "issuance": {
+    "txid": "020db1373ee2527b9f2226a990f45f1cc2e90bee6a284c9bfd3b816329b25b50",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "e3d081896f5c2f03a1fb50a43ab10673c5cc2783d381e08271f6119da1cd2c08",
+  "transfer_txid": "9b5b13944cbb9eeee6cb8e644e15d2be7ccf31a24545078c343629ec8bad4e44"
+}
