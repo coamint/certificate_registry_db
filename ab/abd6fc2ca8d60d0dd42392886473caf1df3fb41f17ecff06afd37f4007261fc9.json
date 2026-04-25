@@ -1,0 +1,25 @@
+{
+  "asset_id": "abd6fc2ca8d60d0dd42392886473caf1df3fb41f17ecff06afd37f4007261fc9",
+  "cert_id": "COA-1777090495409-29TUCK",
+  "asset_type": "art",
+  "name": "Sovereign Declaration",
+  "serial": "03061",
+  "label": "FINEART",
+  "entity": {
+    "domain": "minnaartreasury.com",
+    "issuer_name": "Minnaar Treasury"
+  },
+  "issuance": {
+    "txid": "a8ec2673887b6626f364016abf2821219266646d131f0594ba2f62d6f024cf5d",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "1d1a887faa710404f9ffdd165aa998744292c406d5144854b6a5964dca4c0090",
+  "transfer_txid": "40a6a9b9793bda734fcfb22b306d65886312f920150d7811345dd21ec6e13b16"
+}
