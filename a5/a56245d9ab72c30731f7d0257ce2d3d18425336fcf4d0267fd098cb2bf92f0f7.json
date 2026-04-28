@@ -1,0 +1,25 @@
+{
+  "asset_id": "a56245d9ab72c30731f7d0257ce2d3d18425336fcf4d0267fd098cb2bf92f0f7",
+  "cert_id": "COA-1777399078667-JIR8HV",
+  "asset_type": "art",
+  "name": "This is a test of the wallet address",
+  "serial": "32432432432",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "Adaptive Fleet"
+  },
+  "issuance": {
+    "txid": "c6dafece5bf4a5c6cf452adf98002a39114006f5297beaa0beddc84603c1101e",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "3f39b7724f7464f7023a2af0a569ed78e570d0f4babce8b2cb8e1c7134e8b46f",
+  "transfer_txid": "8f344b99d3a0c1d33012c50f035f47c59ccb780ca0faea0c0704347e904c96f9"
+}
