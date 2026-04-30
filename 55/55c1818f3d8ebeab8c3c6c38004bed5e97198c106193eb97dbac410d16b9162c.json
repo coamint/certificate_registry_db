@@ -1,0 +1,25 @@
+{
+  "asset_id": "55c1818f3d8ebeab8c3c6c38004bed5e97198c106193eb97dbac410d16b9162c",
+  "cert_id": "COA-1777572603636-P6GDXI",
+  "asset_type": "art",
+  "name": "Expression",
+  "serial": "03167",
+  "label": "FINEART",
+  "entity": {
+    "domain": "minnaartreasury.com",
+    "issuer_name": "Minnaar Treasury"
+  },
+  "issuance": {
+    "txid": "19d98a00848390f0b6db055cbc2df19c8023450fe167c8abca193ed56ff60971",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "10fe6d8b5bb73939854de367d96770930d179a1a7e237ecf67fb2df2dcdd0598",
+  "transfer_txid": "fbaccc907e332c1ff7903046a415d783d03d6ddac735eb06471c09dcc2743608"
+}
