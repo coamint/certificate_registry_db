@@ -1,0 +1,25 @@
+{
+  "asset_id": "1a34c8081ca69358b7d208b3d2269392a9615fb77a30550e63b3554523e9afe8",
+  "cert_id": "COA-1777671177044-ANCCGJ",
+  "asset_type": "art",
+  "name": "Sovereign ",
+  "serial": "03099",
+  "label": "FINEART",
+  "entity": {
+    "domain": "stevenminnaar.com",
+    "issuer_name": "Steven Minnaar "
+  },
+  "issuance": {
+    "txid": "3c42b8f640673d64320b9a3af276b31de2e68780c570796f1f75583a9842a647",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "c022d6138c693cf3ddef012828d17f494b6aa2010c220f27d92eb39388e8a0ba",
+  "transfer_txid": "825e84946c80a3d076c98f9ada3d2de3b88c7e1e4d69851805a4c9b59e7b4909"
+}
