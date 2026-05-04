@@ -1,0 +1,25 @@
+{
+  "asset_id": "881ebb5f1b84e57fe648d99f3edcb51a45278f86c1b9151d74c996843951f2f3",
+  "cert_id": "COA-1777866187443-3W6OAX",
+  "asset_type": "art",
+  "name": "This is a test of COA Mint",
+  "serial": "234234324",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "Adapt this now."
+  },
+  "issuance": {
+    "txid": "8faa200920fc615da093f2d29047966486cbf4e009d1f47c7b676a8ed2883815",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "8f97c24057a29be11cb35c2bcb0e4d049abbdb1994b25c0791de4c70c8081501",
+  "transfer_txid": "5b67416dbda157b4b0e625fc08c8380a3c4f180352d1d73b0cf98cf84bbd738f"
+}
