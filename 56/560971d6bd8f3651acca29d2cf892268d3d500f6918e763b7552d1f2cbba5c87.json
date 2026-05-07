@@ -1,0 +1,25 @@
+{
+  "asset_id": "560971d6bd8f3651acca29d2cf892268d3d500f6918e763b7552d1f2cbba5c87",
+  "cert_id": "COA-1778180134228-IJ6TGW",
+  "asset_type": "art",
+  "name": "This is a test of the minting system",
+  "serial": "45435345345",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "Adaptive Fleet"
+  },
+  "issuance": {
+    "txid": "e2c2a71fcbce2c4015926f986491b2ae9c318cb339b28cd94a3450e200199cbc",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "708cbb96d57355436cb290acb4ab59b4bd46646d96f0cd4ad0502fc2385c8cf4",
+  "transfer_txid": "3275df1c7b8e29108cda8ad621d28a07495ab6f6bddc29bac92656dfdd8ab029"
+}
