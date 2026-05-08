@@ -1,0 +1,25 @@
+{
+  "asset_id": "dde2271aacbb2cc1db41f761f174f5aa4dc248ea7ae4f030ce4b19825c508ea9",
+  "cert_id": "COA-1778220359342-8G6A42",
+  "asset_type": "art",
+  "name": "test",
+  "serial": "testjlkjljkljlj",
+  "label": "FINEART",
+  "entity": {
+    "domain": "disruptiveforce.io",
+    "issuer_name": "test "
+  },
+  "issuance": {
+    "txid": "cbb7dc9f8af83f44727560697b396c65357a9852d22e414b7deb377496e918f8",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "2385b7aa64c3ba9069da2c8807f82d0d01e9650aafbd6d6bfca732e56fd3e120",
+  "transfer_txid": "7889a605a5c421796907d7e7d90a8d35871554846e99ee9c209d0616884790ad"
+}
