@@ -1,0 +1,25 @@
+{
+  "asset_id": "7cd739d989299d1044b6072ff892ab43f1b06dd4ec9a96055647217231d2e3da",
+  "cert_id": "COA-1778298214411-2UTUOB",
+  "asset_type": "art",
+  "name": "This is a test of the mint",
+  "serial": "323424234",
+  "label": "FINEART",
+  "entity": {
+    "domain": null,
+    "issuer_name": "Adaptive Fleet"
+  },
+  "issuance": {
+    "txid": "de496f6ccf73558f7356efcc211a5481f3cbebb94347f09f838bc2441c11fbe1",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "15d7331eae8bf2d9b00c599e008b33d663c387b037b7748b3a698c021e1a2093",
+  "transfer_txid": "55da2eb54d3b030bc22151fbf0b014dfa01919d5663ca02c2b32d22863835b28"
+}
