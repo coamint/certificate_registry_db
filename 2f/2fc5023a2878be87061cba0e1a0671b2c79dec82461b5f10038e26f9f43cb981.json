@@ -1,0 +1,25 @@
+{
+  "asset_id": "2fc5023a2878be87061cba0e1a0671b2c79dec82461b5f10038e26f9f43cb981",
+  "cert_id": "COA-1778374637016-4LKADY",
+  "asset_type": "art",
+  "name": "afadsf",
+  "serial": "asdfsaddf",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "Berry Landing Estates"
+  },
+  "issuance": {
+    "txid": "5e37eddc15b01a76e5ec45fa0a168a896056633cec1eb8fd7e6d8830159ba292",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "1caac5071e9b1ff4e9ae38a0bc0de6b0138492942e1191fb9014c9176e2a524a",
+  "transfer_txid": "9abf0f71bbbf47f3d5d686d3120f8b987926cbb6dea1036f8f189a360a133f08"
+}
