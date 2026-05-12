@@ -1,0 +1,25 @@
+{
+  "asset_id": "47af2ea441ca9805e210555fa0f65ed55e25a8398aade7af148682817c8ecb53",
+  "cert_id": "COA-1778550243131-XF5PPW",
+  "asset_type": "art",
+  "name": "This is a test of the minting process",
+  "serial": "34324234",
+  "label": "FINEART",
+  "entity": {
+    "domain": "younghammer.com",
+    "issuer_name": "YoungHammer"
+  },
+  "issuance": {
+    "txid": "925c7977b69a3a8cf3e2501d9db88d6c8679502a1b566739a85adde82206c447",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "f53f45b4083154eed3f908a409f1a171f198c716c661c4d4ed7507b89d1f90ed",
+  "transfer_txid": "2458a8b6b23a4b0632476a08974c6c6180dbf20812f7314b0bb52c43dd1a04b0"
+}
