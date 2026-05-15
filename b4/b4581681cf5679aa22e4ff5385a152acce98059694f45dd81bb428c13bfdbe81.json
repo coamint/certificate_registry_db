@@ -1,0 +1,25 @@
+{
+  "asset_id": "b4581681cf5679aa22e4ff5385a152acce98059694f45dd81bb428c13bfdbe81",
+  "cert_id": "COA-1778804331084-UFOERP",
+  "asset_type": "art",
+  "name": "Treasury Drawing - 03175",
+  "serial": "03175",
+  "label": "FINEART",
+  "entity": {
+    "domain": "minnaartreasury.com",
+    "issuer_name": "Minnaar Treasury"
+  },
+  "issuance": {
+    "txid": "252981a833cce61daf7c35b39118627a1ca1e77abd5d93fa61b7f2d796747a9e",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "da7f199cb108abe29e4a5ad02ef876038c60daa34d652e345d3ee0afbb8fd0fa",
+  "transfer_txid": "a0f309fc2da25ef693c04532a81119e15877810303c757713197e790bb89a1be"
+}
