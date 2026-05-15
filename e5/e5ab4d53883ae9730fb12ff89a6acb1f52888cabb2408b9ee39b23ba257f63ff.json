@@ -1,0 +1,25 @@
+{
+  "asset_id": "e5ab4d53883ae9730fb12ff89a6acb1f52888cabb2408b9ee39b23ba257f63ff",
+  "cert_id": "COA-1778804917201-EUGHD0",
+  "asset_type": "art",
+  "name": "Treasury Drawing - 03172",
+  "serial": "03172",
+  "label": "FINEART",
+  "entity": {
+    "domain": "minnaartreasury.com",
+    "issuer_name": "Minnaar Treasury"
+  },
+  "issuance": {
+    "txid": "389a472bd2fa85cc5ead9f999de40a7ee1d0d362a51b6ae64a10512e875b8097",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "d9ad854d792aee862d60bf022ac35084950272ac06afd8c6e61358e88a39d7fc",
+  "transfer_txid": "af411ce1162bb239304daed528db69c992e2de6761392c265961cc893ded2304"
+}
