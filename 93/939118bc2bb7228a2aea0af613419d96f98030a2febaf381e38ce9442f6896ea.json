@@ -1,0 +1,25 @@
+{
+  "asset_id": "939118bc2bb7228a2aea0af613419d96f98030a2febaf381e38ce9442f6896ea",
+  "cert_id": "COA-1779166800937-H3B0I6",
+  "asset_type": "art",
+  "name": "This is a test of the system",
+  "serial": "4324234324",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "adaptivefleet"
+  },
+  "issuance": {
+    "txid": "a713dbaf06f4db34c34257e1d550ed2724df2d1fe79464fffb325e697794ea7f",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "ae810341467bb1a4f35ed36205616f3ce2c4b2ea14d6c6f74157bb76e6f5c809",
+  "transfer_txid": "d49c4c573e016d21c2bb05e029881145994c8258f024efe1386b10bb44a40b41"
+}
