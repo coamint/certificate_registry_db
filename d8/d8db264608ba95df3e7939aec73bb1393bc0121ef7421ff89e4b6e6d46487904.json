@@ -1,0 +1,25 @@
+{
+  "asset_id": "d8db264608ba95df3e7939aec73bb1393bc0121ef7421ff89e4b6e6d46487904",
+  "cert_id": "COA-1779158549976-G8PGH0",
+  "asset_type": "art",
+  "name": "Test Image",
+  "serial": "12345jlkjdflkajdfjajs",
+  "label": "FINEART",
+  "entity": {
+    "domain": null,
+    "issuer_name": "Intellimint Test, Inc. "
+  },
+  "issuance": {
+    "txid": "42d7b085e8b7fc55fd7f8d201b5c680426c781cf9ab3b3e4f1b4449770d11ab6",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "74300c0769e320b05caf0217764d7b15a4588076fde3e83d2eba135434b79f6c",
+  "transfer_txid": "c02284fa1b4dc4c6716f679d8fb65005159008feb82aed7420823a91998374c4"
+}
