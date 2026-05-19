@@ -1,0 +1,25 @@
+{
+  "asset_id": "ee6305478260a1d4964679a1ce58b4a8fed10eb6300720e0ae6a4b2ff136abe8",
+  "cert_id": "COA-1779159296226-SAR2DB",
+  "asset_type": "art",
+  "name": "fkjladsjfldjasf;f",
+  "serial": "asdfasdfdsafsdfa",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "Flannery test"
+  },
+  "issuance": {
+    "txid": "2007e5f1c3fe235a5de7dac49c010e3ac0440ee056f9ba3c7aacd95efdd3ed30",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "71f0525ddc987eac41f62ab7c66b0b7f9bed2bc46ee881c058c95ba90af8bd3c",
+  "transfer_txid": "9cc3edd1ab38023e1d21274fa808108cda36636435e1b1e7656a6022aedeca77"
+}
