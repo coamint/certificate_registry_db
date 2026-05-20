@@ -1,0 +1,25 @@
+{
+  "asset_id": "a8d334b2a9eb1ebc9aa26a90d00d1e9d5fcd4a29a71def16dae42e98d787a393",
+  "cert_id": "COA-1779314415110-PVSVMR",
+  "asset_type": "other",
+  "name": "Autograph",
+  "serial": "001",
+  "label": "OTHER",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "David Werner"
+  },
+  "issuance": {
+    "txid": "f10b005d641870579c26c8d235d63dcc7783b99ce2605434d7db4348778733fa",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "9fc387f7f49428d224f7e093be9e95fd07d04e8dfbdbc334ef62c001d9442887",
+  "transfer_txid": "71c7cf3910d9499184cffb8cd92018bf51709fde2cbe5e08f0e87d6a5185d223"
+}
