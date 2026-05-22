@@ -1,0 +1,25 @@
+{
+  "asset_id": "7989b3c76caa39e413265194e73ad3a036224f66622f2f42f6385b72f1208b44",
+  "cert_id": "COA-1779484432828-UDSRPR",
+  "asset_type": "collectible",
+  "name": "2024 Donruss Drake Maye Optic Preview-Red Pandora",
+  "serial": "151115234",
+  "label": "COLLECTIBLE",
+  "entity": {
+    "domain": "fistbumpsports.com",
+    "issuer_name": "FistBump Sports, Inc."
+  },
+  "issuance": {
+    "txid": "46f6ef786ab17729b7e6620c4e14bd154acad54d4191c19d560bdb759e287098",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "38d1cb6f7b6ef3aa99bb32eb95d19f7907575f9f9053d046b06e004f65474790",
+  "transfer_txid": "12b7f386235d1d342e6a6b3aa0162d8b32a5f5b4b518e1146e0dbd5bb056ab57"
+}
