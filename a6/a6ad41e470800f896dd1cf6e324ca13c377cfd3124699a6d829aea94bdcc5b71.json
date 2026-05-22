@@ -1,0 +1,25 @@
+{
+  "asset_id": "a6ad41e470800f896dd1cf6e324ca13c377cfd3124699a6d829aea94bdcc5b71",
+  "cert_id": "COA-1779480958070-XJHJ23",
+  "asset_type": "collectible",
+  "name": "Michael Jordan 1986 Fleer Rookie Card",
+  "serial": "13151561616",
+  "label": "COLLECTIBLE",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "Fist Bump Sports"
+  },
+  "issuance": {
+    "txid": "1c518ffa1688b0a4f76a3a143e3d21641044bbbb5897ac3f38b41e5acca1887f",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "069ad06a1da72bb8dd676cc9e189a60ac0bed4861b19128d93758e1b3f1b579e",
+  "transfer_txid": "328062869abddddcbd99420537a0e0966c449b436972cb6b67d5d38cf12de40b"
+}
