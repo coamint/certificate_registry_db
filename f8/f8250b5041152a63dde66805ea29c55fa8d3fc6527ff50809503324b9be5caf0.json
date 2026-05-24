@@ -1,0 +1,25 @@
+{
+  "asset_id": "f8250b5041152a63dde66805ea29c55fa8d3fc6527ff50809503324b9be5caf0",
+  "cert_id": "COA-1779644977048-CWI0JN",
+  "asset_type": "art",
+  "name": "test",
+  "serial": "12345-4243",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "Pandora"
+  },
+  "issuance": {
+    "txid": "69518e4794a91db11296524244a6153b7b0c8ebae29c46f8817006df78912499",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "982fa5b62768ae9c3db135b171c7076f11faad17237a48aa49a3d8a825073ac5",
+  "transfer_txid": "78bda954ddcdef2547b960150d0e17defbb555469277e5b9de1e9d78a7ef49f4"
+}
