@@ -1,0 +1,25 @@
+{
+  "asset_id": "8e6833423c125770617f0eb6e0edf5476b3c3a710fcb24032c24d456ebdc992f",
+  "cert_id": "COA-1779641477512-154A68",
+  "asset_type": "art",
+  "name": "Aaron needs learn math A",
+  "serial": "mathbasicsfor10yearolds",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "no math foo"
+  },
+  "issuance": {
+    "txid": "142bd49af0e4ede5907bf6d238a8cee6baedd3eb9234af8377bc8ae02dcbfbc3",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "bb21d4f6793044506660681043eed938cd00e7505bc6b9da9f0b55daef42abed",
+  "transfer_txid": "a3057b65b5b26cd61e1c09898a3803b0fd64da634546fc9ed7477babc597dd26"
+}
