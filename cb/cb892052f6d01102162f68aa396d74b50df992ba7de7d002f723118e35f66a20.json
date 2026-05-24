@@ -1,0 +1,25 @@
+{
+  "asset_id": "cb892052f6d01102162f68aa396d74b50df992ba7de7d002f723118e35f66a20",
+  "cert_id": "COA-1779640225855-12SB0H",
+  "asset_type": "art",
+  "name": "American Dew",
+  "serial": "1948",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "Mtn Dew Test"
+  },
+  "issuance": {
+    "txid": "ec4d35200072b1eeba54fc4b3790f84b76715a61565ff0343a4ed5e93a2fd724",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "bb7c9d42031d9806165802ea8d6072489a501c0d763233a0447c8bed1d6118f5",
+  "transfer_txid": "98c420fc38fadc542eec52b8451962c151b8ce615881a6f6660e2bd5d83454ad"
+}
