@@ -1,0 +1,25 @@
+{
+  "asset_id": "83b0329f96a3ad3cfb4444d7788af6d23ab9be86e61ff7612bc2d1101a7a0e0c",
+  "cert_id": "COA-1779765048534-7WTFN8",
+  "asset_type": "art",
+  "name": "This is a test of the new node dashboard",
+  "serial": "342234324",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "tive fleet"
+  },
+  "issuance": {
+    "txid": "6ecaa830b25f5bab9fc96e605211d056eaa613baf9dfba792844882ec31c0554",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "c565be8812f0aeab9ba0e80ed26bc8c691017b637ebc9c94b2d64703d714c88d",
+  "transfer_txid": null
+}
