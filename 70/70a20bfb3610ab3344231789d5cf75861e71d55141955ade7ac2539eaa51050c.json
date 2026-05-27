@@ -1,0 +1,25 @@
+{
+  "asset_id": "70a20bfb3610ab3344231789d5cf75861e71d55141955ade7ac2539eaa51050c",
+  "cert_id": "COA-1779912756854-4KVWS4",
+  "asset_type": "collectible",
+  "name": "klfjalfjdsaf",
+  "serial": "asdfsadrf",
+  "label": "COLLECTIBLE",
+  "entity": {
+    "domain": "disruptiveforce.io",
+    "issuer_name": "Tampa lampa Bampa, Inc. "
+  },
+  "issuance": {
+    "txid": "fdce1b03ca4936fb4fb38feb5005bc1eb508b26676e8178e2c571b6d9acd935c",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "d52bae8fbe1661931909ec06e6d1f311ef2fb90796410728572fa0895feb6d92",
+  "transfer_txid": null
+}
