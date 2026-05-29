@@ -1,0 +1,25 @@
+{
+  "asset_id": "f8b1467bc1d920836e17049682184614402e5f0bede260ceec273c098f422ad5",
+  "cert_id": "COA-1780091211555-K4L5UP",
+  "asset_type": "art",
+  "name": "Minnaar Mogul Trading Card",
+  "serial": "03180",
+  "label": "FINEART",
+  "entity": {
+    "domain": "minnaartreasury.com",
+    "issuer_name": "Minnaar"
+  },
+  "issuance": {
+    "txid": "d0d509342717a5bf3df2e244919d18c62b73c15eb4d93a6df99e8f6247e17862",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "54a43bcafb5556f95f710abc9132719ef6439ee9231e4320fe7206bbae4ef7a8",
+  "transfer_txid": null
+}
