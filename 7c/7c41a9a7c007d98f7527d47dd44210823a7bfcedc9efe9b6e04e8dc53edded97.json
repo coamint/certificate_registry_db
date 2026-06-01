@@ -1,0 +1,25 @@
+{
+  "asset_id": "7c41a9a7c007d98f7527d47dd44210823a7bfcedc9efe9b6e04e8dc53edded97",
+  "cert_id": "COA-1780347692672-QA0ZE3",
+  "asset_type": "art",
+  "name": "test",
+  "serial": "test",
+  "label": "FINEART",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "Intellimint, Inc."
+  },
+  "issuance": {
+    "txid": "fb5fc5d5fcd87441b40a014383750d2dd7274ee715d2ee09949edf717feb832d",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "b5e94e38b3e790e893c642d49907c77f9fe01e1c14b116ae500e10fb00e2230f",
+  "transfer_txid": null
+}
