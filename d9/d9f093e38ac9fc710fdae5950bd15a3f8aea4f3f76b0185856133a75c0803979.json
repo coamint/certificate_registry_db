@@ -1,0 +1,25 @@
+{
+  "asset_id": "d9f093e38ac9fc710fdae5950bd15a3f8aea4f3f76b0185856133a75c0803979",
+  "cert_id": "COA-1781207706878-J5V86J",
+  "asset_type": "document",
+  "name": "Dossier Doc",
+  "serial": "1001",
+  "label": "DOCUMENT",
+  "entity": {
+    "domain": "disruptiveforce.io",
+    "issuer_name": "Disruptive Force, Inc."
+  },
+  "issuance": {
+    "txid": "589fc9eb1d33aa4e969a68ed5c92d45418b72580ed0eac6f8c00e23509a7079b",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "68fb03a160d6d9fbb4d60e5d955b8a44367b724ae11741b87dc906f86985e406",
+  "transfer_txid": null
+}
