@@ -1,0 +1,25 @@
+{
+  "asset_id": "0e93b9c57721c51591b7ebc74ecade752abeda2182a7b201b048a8a0b4c6ebdc",
+  "cert_id": "COA-1781281086080-WSF2WO",
+  "asset_type": "document",
+  "name": "This is a test",
+  "serial": "2343242",
+  "label": "DOCUMENT",
+  "entity": {
+    "domain": "adaptivefleet.com",
+    "issuer_name": "Intellimint, Inc."
+  },
+  "issuance": {
+    "txid": "b937082a3c97c86abb82e46957736f042d2c1529d9cabf9abd562eb0113830a3",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "44e530e0a7daa161c0a37bec103d06fa8a06ac8213ffa945153153553b8440fb",
+  "transfer_txid": null
+}
