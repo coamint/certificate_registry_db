@@ -1,0 +1,25 @@
+{
+  "asset_id": "678b682d0c506eb7f118c4a220002fa0b1ba675dfbc790378f65a60068ff71ca",
+  "cert_id": "COA-1781822980168-VR4ZXD",
+  "asset_type": "art",
+  "name": "test",
+  "serial": "test",
+  "label": "FINEART",
+  "entity": {
+    "domain": "disruptiveforce.io",
+    "issuer_name": "Disruptive Force, Inc."
+  },
+  "issuance": {
+    "txid": "fa8eee5cdb55343fc7459b13f4731a47497bed6d71f902c9131bbd7a0588244b",
+    "vin": {
+      "txid": null,
+      "vin": null
+    },
+    "prevout": {
+      "txid": null,
+      "vout": null
+    }
+  },
+  "contract_hash": "f4122b4c75a2f09ce4e97c3db2f476b9758da9d0f51b0cd3ec4b4667a71abee5",
+  "transfer_txid": null
+}
